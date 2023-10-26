@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+.logosize{
+    width: 100px;
+}
+
+.portadasize{
+    width: 100%;
+    height: 350px;
+}
+.cuadrosize{
+    width: 450px;
+}
