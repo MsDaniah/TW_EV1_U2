@@ -11,6 +11,16 @@ body{
     width: 100%;
     height: 350px;
 }
+
 .cuadrosize{
     width: 450px;
+    margin: 0 auto;
+}
+
+.warnings{
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    color: red;
+    font-weight: bold;
 }
